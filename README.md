@@ -1,6 +1,4 @@
 # AccessibleDirectory
-Parfait, voici un **décorticage clair et étape par étape** de ce que tu dois faire pour réussir ce projet. On va suivre la structure du sujet, en séparant les parties obligatoires des bonus, et en gardant les objectifs de sécurité en tête.
-
 ---
 
 ### 🌐 **I. Création de l'application web en C# (.NET)**
