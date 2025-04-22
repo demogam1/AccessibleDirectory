@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|c:\\users\\visari\\desktop\\accessibledirectory\\domolia\\domolia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|solutionrelative:domolia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|c:\\users\\visari\\desktop\\accessibledirectory\\domolia\\domolia\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|solutionrelative:domolia\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|c:\\users\\visari\\desktop\\accessibledirectory\\domolia\\domolia\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|solutionrelative:domolia\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|c:\\users\\visari\\desktop\\accessibledirectory\\domolia\\domolia\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|solutionrelative:domolia\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|c:\\users\\visari\\desktop\\accessibledirectory\\domolia\\domolia\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|solutionrelative:domolia\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|c:\\users\\visari\\desktop\\accessibledirectory\\domolia\\domolia\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|solutionrelative:domolia\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|c:\\users\\visari\\desktop\\accessibledirectory\\domolia\\domolia\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|solutionrelative:domolia\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|c:\\users\\visari\\desktop\\accessibledirectory\\domolia\\domolia\\pages\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FED1E64-9AAF-4B2A-8773-8E32A0857FC3}|domolia\\domolia.csproj|solutionrelative:domolia\\pages\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "domolia\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "domolia\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:24:19.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "domolia\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "domolia\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T16:23:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "domolia\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "domolia\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:35:48.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "domolia\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Login.cshtml",
+              "RelativeToolTip": "domolia\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T15:34:47.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "domolia\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "domolia\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:31:42.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "domolia\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Index.cshtml",
+              "RelativeToolTip": "domolia\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T14:31:36.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Program.cs",
+              "RelativeDocumentMoniker": "domolia\\Program.cs",
+              "ToolTip": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Program.cs",
+              "RelativeToolTip": "domolia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:31:20.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "domolia\\Pages\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Visari\\Desktop\\AccessibleDirectory\\domolia\\domolia\\Pages\\Services\\WeatherService.cs",
+              "RelativeToolTip": "domolia\\Pages\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:30:03.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

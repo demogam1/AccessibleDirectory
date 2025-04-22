@@ -1,0 +1,20 @@
+﻿@page
+@model LoginModel
+
+<h2>Connexion Active Directory</h2>
+
+<form method="post">
+    <div>
+        <label>Nom d’utilisateur</label>
+        <input asp-for="Username" />
+    </div>
+    <div>
+        <label>Mot de passe</label>
+        <input asp-for="Password" type="password" />
+    </div>
+    <button type="submit">Connexion</button>
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <p style="color:red">@Model.ErrorMessage</p>
+    }
+</form>

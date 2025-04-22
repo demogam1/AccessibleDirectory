@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To Domolia</h1>
+    <h2>Météo à Paris</h2>
+    <p>@Model.WeatherInfo</p>
+    <a href="/Logout">Déconnexion</a>
+    <section>
+        <h2>Actualité Domolia</h2>
+        @foreach (var news in Model.News)
+        {
+            <article>
+                <h3>@news.Title</h3>
+                <small>@news.Date.ToShortDateString()</small>
+                <p>@news.Content</p>
+            </article>
+        }
+    </section>
+
+</div>
